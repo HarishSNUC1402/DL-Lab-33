@@ -1,6 +1,6 @@
 # Multi-Layer Perceptron (MLP) for Multi-Class Image Classification
 
-**Shiv Nadar University Chennai**  
+
 **Course:** CS3807 - Deep Learning Laboratory  
 **Experiment 2:** Implementation of a Multi-Layer Perceptron (MLP) for Multi-Class Image Classification  
 
